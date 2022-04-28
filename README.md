@@ -16,8 +16,6 @@ $ pip install deep-daze
 
 ### Windows Install
 
-<img src="./instruction_images/Windows/Step_1_DD_Win.png" width="480px"></img>
-
 Presuming Python is installed: 
 - Open command prompt and navigate to the directory of your current version of Python
 ```bash
@@ -30,8 +28,6 @@ Presuming Python is installed:
 $ imagine "a house in the forest"
 ```
 For Windows:
-
-<img src="./instruction_images/Windows/Step_2_DD_Win.png" width="480px"></img>
 
 - Open command prompt as administrator
 ```bash
