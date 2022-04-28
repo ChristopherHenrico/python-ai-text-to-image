@@ -1,39 +1,5 @@
 ## Credit to Ryan Murdock and Phil Wang
 
-## Deep Daze
-
-<img src="./samples/Mist_over_green_hills.jpg" width="256px"></img>
-
-*mist over green hills*
-
-<img src="./samples/Shattered_plates_on_the_grass.jpg" width="256px"></img>
-
-*shattered plates on the grass*
-
-<img src="./samples/Cosmic_love_and_attention.jpg" width="256px"></img>
-
-*cosmic love and attention*
-
-<img src="./samples/A_time_traveler_in_the_crowd.jpg" width="256px"></img>
-
-*a time traveler in the crowd*
-
-<img src="./samples/Life_during_the_plague.jpg" width="256px"></img>
-
-*life during the plague*
-
-<img src="./samples/Meditative_peace_in_a_sunlit_forest.jpg" width="256px"></img>
-
-*meditative peace in a sunlit forest*
-
-<img src="./samples/A_man_painting_a_completely_red_image.png" width="256px"></img>
-
-*a man painting a completely red image*
-
-<img src="./samples/A_psychedelic_experience_on_LSD.png" width="256px"></img>
-
-*a psychedelic experience on LSD*
-
 ## What is this?
 
 Simple command line tool for text to image generation using OpenAI's <a href="https://github.com/openai/CLIP">CLIP</a> and <a href="https://arxiv.org/abs/2006.09661">Siren</a>. Credit goes to <a href="https://twitter.com/advadnoun">Ryan Murdock</a> for the discovery of this technique (and for coming up with the great name)!
