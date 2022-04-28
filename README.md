@@ -161,15 +161,6 @@ Simply specify the path to the image you wish to use, and optionally the number 
 $ imagine 'a clear night sky filled with stars' --start_image_path ./cloudy-night-sky.jpg
 ```
 
-Primed starting image
-
-<img src="./samples/prime-orig.jpg" width="256px"></img>
-
-Then trained with the prompt `A pizza with green pepper.`
-
-<img src="./samples/prime-trained.png" width="256px"></img>
-
-
 ### Optimize for the interpretation of an image
 
 We can also feed in an image as an optimization goal, instead of only priming the generator network. Deepdaze will then render its own interpretation of that image:
